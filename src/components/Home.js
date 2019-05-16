@@ -14,7 +14,7 @@ export default class Home extends Component {
 
           <View style={{ flex: 8, flexDirection: 'row', alignItems: 'center' }}>
             <Image
-              style={{ width: 40, height: 40, borderRadius: 25, marginLeft: 7 }}
+              style={{ width: 43, height: 43, borderRadius: 25, marginLeft: 9 }}
               source={{ uri: 'https://dwdispatch.files.wordpress.com/2018/05/dw-avatardeadpool-1a.jpg' }}
             />
             <Text style={{ padding: 10 }}>
